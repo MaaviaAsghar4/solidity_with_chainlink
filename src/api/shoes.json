@@ -1,0 +1,74 @@
+{
+    "air-jordan-3-valor-blue": {
+        "name": "VALOUR BLUE",
+        "img":
+          "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "description":
+          "The Valour Blue has a design that's expressive and comfortable from the inside out. Made from a mix of materials, this shoe has plush, lightweight foam underfoot. It's meticulously crafted for a look and feel only Jordan Brand can deliver.",
+          "price": "10,000"
+      },
+      "jordan-mars-270-london": {
+        "name": "JORDAN MARS",
+        "img":
+          "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "description":
+          "The Jordan Mars has a design that's expressive and comfortable from the inside out. Made from a mix of materials, this shoe has plush, lightweight foam underfoot. It's meticulously crafted for a look and feel only Jordan Brand can deliver.",
+          "price": "15,000"
+      },
+      "air-jordan-1-zoom-racer-blue": {
+        "name": "RACER BLUE",
+        "img":
+          "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+          "description":
+          "The Jordan Delta has a design that's expressive and comfortable from the inside out. Made from a mix of materials, this shoe has plush, lightweight foam underfoot. It's meticulously crafted for a look and feel only Jordan Brand can deliver.",
+          "price": "8,000"
+      },
+      "air-jordan-3-valor-blue1": {
+        "name": "AIR ZOOM TEMPO",
+        "img":
+          "https://static.nike.com/a/images/f_auto/q_auto:eco/t_PDP_864_v1/e38e045d-8e6c-4369-86ba-41e6fd098eec/air-zoom-tempo-next-flyease-running-shoe-h5vN6L.jpg",
+          "description":
+          "The ultra-responsive Nike Air Zoom Tempo Next% FlyEase is designed to help you get the most from your training runs, so you can go confidently into your next (or first) race. It has a step-in entry and an internal lacing mechanism you operate with one hand. Pull one loop to tighten, another to release.",
+          "price": "10,000"
+      },
+      "jordan-mars-270-london2": {
+        "name": "AIR VAPOR MAX",
+        "img":
+          "https://static.nike.com/a/images/f_auto/q_auto:eco/t_PDP_864_v1/91f21b7c-6009-44e3-9f30-ea1473ea7a55/air-vapormax-2020-fk-shoe-8zD6jn.jpg",
+          "description":
+          "Designed with sustainability in mind, the Nike Air VaporMax 2020 Flyknit is made from at least 50% recycled content by weight. That's a lot of rubbish! As part of Nike's journey towards lowering our impact, we're discovering new ways to put our waste to good use. By utilising leftover materials, recycled polyester, recycled foam and a Nike Air-Sole made from at least 75% recycled TPU, the VaporMax 2020 Flyknit marks the next step towards our ultimate goal of zero carbon and zero waste.",
+          "price": "12,000"
+      },
+      "air-jordan-1-zoom-racer-blue3": {
+        "name": "KILL SHOT",
+        "img":
+          "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/cd22a018-fb03-4d65-9543-9a012348efa9/killshot-sp-shoe-0gpfZX.jpg",
+          "description":
+          "The Nike Killshot Shoe embodies 1970s tennis style at its best. Its mesh and suede design and rubber outsole deliver a retro look with off-court comfort.",
+          "price": "10,500"
+      },
+      "air-jordan-3-valor-blue2": {
+        "name": "AIR FORCE",
+        "img":
+          "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/321139eb-9680-443a-afb8-820edb67ee95/air-force-1-07-shoe-4tlqmZ.jpg",
+          "description":
+          "The radiance lives on in the Nike Air Force 1 '07, the b-ball OG that puts a fresh spin on what you know best: crisp leather, bold colours and the perfect amount of flash to make you shine.",
+          "price": "9,000"
+      },
+      "jordan-mars-270-london3": {
+        "name": "AIR ZOOM PEGASUS",
+        "img":
+          "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/5083e6ca-2f3a-4dac-a3b3-2b16e9051ce2/air-zoom-pegasus-37-running-shoe-mwrTCc.jpg",
+          "description":
+          "Reinvigorate your stride with the Nike Air Zoom Pegasus 37. Delivering the same fit and feel that runners love, the shoe has an all-new forefoot cushioning unit and foam for maximum responsiveness. The result is a durable, lightweight trainer designed for everyday running.",
+          "price": "10,000"
+      },
+      "air-jordan-1-zoom-racer-blue4": {
+        "name": "JORDON DELTA",
+        "img":
+          "https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/0efe1f87-bd7e-4e33-8b2b-b9e20bfd7518/jordan-delta-shoe-ll8djW.jpg",
+          "description":
+          "The Jordan Delta has a design that's expressive and comfortable from the inside out. Made from a mix of materials, this shoe has plush, lightweight foam underfoot. It's meticulously crafted for a look and feel only Jordan Brand can deliver.",
+          "price": "15,000"
+      }
+    }
