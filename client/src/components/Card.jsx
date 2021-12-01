@@ -1,7 +1,7 @@
 import React from 'react'
 import styles from './Card.module.css'
 
-const Card = ({product}) => {
+const Card = ({product, onClickShoe}) => {
     return (
         <div className={styles.card}>
             <div className={styles.imgContainer}>
@@ -9,10 +9,10 @@ const Card = ({product}) => {
             </div>
             <div className={styles.textContainer}>
                 <p className={styles.name}>{product.name}</p>
-                <p className={styles.price}>RS. {product.price}</p>
+                <p className={styles.price}>{product.price} wei</p>
             </div>
             <div className={styles.btnContainer}>
-                <button>Buy</button>
+                <button onClick={() => onClickShoe(product.price)}>Buy</button>
             </div>
         </div>
     )
